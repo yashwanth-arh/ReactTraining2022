@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #FF2E63;
+    /* height: 5em; */
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    color: #FFF8EA;
+    font-family: cursive;
+    font-size: 3em;
+    padding: 10px 85px;
+}
