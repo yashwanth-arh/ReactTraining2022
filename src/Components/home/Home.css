@@ -1,0 +1,16 @@
+.home-main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40em;
+}
+.home-left h2{
+    font-size: 4em;
+}
+.home-left p{
+    color: blue;
+    font-weight: 500;
+}
+.home-left{
+    text-align: center;
+}
