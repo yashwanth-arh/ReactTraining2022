@@ -1,10 +1,10 @@
 import React , {useState} from 'react';
 import  './ProfileDetails.css';
 import ProfileImage from './ProfileImage';
-import profilePic from '../Assets/Images/man.png';
-import qouteImg from '../Assets/Images/enjoy.png'
-import switchImg from '../Assets/Images/hacker.png'
-import ContactInformation from './ContactInformation';
+import profilePic from '../../Assets/Images/man.png';
+import qouteImg from '../../Assets/Images/enjoy.png'
+import switchImg from '../../Assets/Images/hacker.png'
+import ContactInformation from './Contact-Info/ContactInformation';
 
 const ProfileDetails = () =>{
     const [switchimg, setState] = useState(profilePic);
